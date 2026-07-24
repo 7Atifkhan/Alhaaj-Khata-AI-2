@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Alhaaj Khata AI",
+  "description": "Modern AI-powered Digital Khata application for shopkeepers and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
